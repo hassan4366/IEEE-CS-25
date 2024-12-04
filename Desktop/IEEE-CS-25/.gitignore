@@ -1,1 +1,0 @@
--e "node_modules/\n*.log\n*.tmp\nDesktop.ini\nThumbs.db\n*.exe\n*.csv\nAppData/\nNTUSER.*" 
