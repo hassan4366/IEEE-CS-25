@@ -16,7 +16,7 @@ int main() {
 
     for (int i = 0; i < n; i++) {
         if (events[i] == -1) {
-            // A crime occurs
+
             if (availableOfficers > 0) {
                 availableOfficers--;
             } else {
